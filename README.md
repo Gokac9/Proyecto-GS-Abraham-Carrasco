@@ -4,7 +4,7 @@
 
 Este proyecto es una comparativa entre dos plataformas populares de desarrollo de videojuegos: Construct y Unity. He creado un videojuego en cada una de estas plataformas para analizar y evaluar sus características, ventajas y desventajas. 
 
-##Datos de ínteres
+## Datos de ínteres
 
 El juego de Unity será ejecutable en Windows bien extrayendo el archivo Juego Unity.zip, o bien ejecutando el lanzador The Mage.
 Los juegos de Construct 2 son ejecutables a partir de los enlaces adjuntados en la documentación del proyecto, la versión de móvil deberá abrirse desde un móvil para poder apreciar las diferencias.
